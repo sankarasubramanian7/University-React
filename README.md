@@ -1,6 +1,10 @@
-# University Management UI (University Project)
+# University Management UI 
 
 **University Management UI** is a user interface for managing various aspects of a university system, built using **React**. This project serves as a university assignment and provides a front-end interface for handling tasks like student records, courses, faculty, and more. The UI is designed to facilitate efficient management of university operations.
+
+## Demo
+
+> Check out the live demo [here](https://university-react-eight.vercel.app/).
 
 ## Features
 - **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
